@@ -1,3 +1,4 @@
+//Example code to invoke child classes from base class
 #include <iostream>
 #include "student.h"
 #include "teacher.h"
